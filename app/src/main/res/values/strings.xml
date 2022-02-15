@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lagaligo</string>
+    <string name="wisata">Wisata</string>
+    <string name="kuliner">Kuliner</string>
+    <string name="kebuyaan">Kebuyaan</string>
+    <string name="image">image</string>
+    <string name="alamat">Alamat : </string>
+    <string name="kontak">Kontak : </string>
+    <string name="internet_bermasalah">Internet Bermasalah!</string>
+    <string name="website">Website</string>
+    <string name="lokasi">Lokasi</string>
+</resources>
