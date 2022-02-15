@@ -66,16 +66,6 @@
             tools:text="Deskripsi" />
 
         <Button
-            android:id="@+id/btWebsite"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginHorizontal="16dp"
-            android:layout_marginBottom="16dp"
-            android:background="@drawable/rounded_button"
-            android:text="@string/website"
-            android:textColor="@android:color/white" />
-
-        <Button
             android:id="@+id/btLokasi"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
